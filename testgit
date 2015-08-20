@@ -5,4 +5,5 @@
 1418  feature1, test conflict;
 1420  master, test conflict;
 1437  dev, switch to a new branch;
+1501  master, test stash;
 

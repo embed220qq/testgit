@@ -2,4 +2,6 @@
 1113  mod file;
 1118  push to origin master;
 1143  test use notepad++ edit;
+1418  feature1, test conflict;
 1420  master, test conflict;
+

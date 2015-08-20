@@ -6,4 +6,6 @@
 1420  master, test conflict;
 1437  dev, switch to a new branch;
 1501  master, test stash;
+1503  issue101, git is a free software;
+
 
